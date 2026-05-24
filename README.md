@@ -1,4 +1,4 @@
-# Hi, I'm Charan (Cherry) 👋
+# Hi, I'm Charan 👋
 ### DevOps | Full-Stack Developer | AI Systems Engineer
 
 I build automated, secure, and self-hosted infrastructure. I specialize in designing Python applications, configuring containerized environments, and optimizing home lab deployments.
