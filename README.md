@@ -38,5 +38,5 @@ I maintain and run a private, highly-available home server stack on a **Raspberr
 ---
 
 ### 📫 Connect with me
-* 💼 LinkedIn: [Your LinkedIn Profile Link]
-* 📧 Email: [Your Email Address]
+* 💼 LinkedIn:https://www.linkedin.com/in/charanbs/ 
+* 📧 Email: charankumarbs@gmail.com
